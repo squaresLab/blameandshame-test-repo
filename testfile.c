@@ -12,7 +12,7 @@ int testfun2(int a, int b)
 {
   int x;
   x = testfun(a, b);
-  x += x;
+  x -= x;
   return x;
 }
 
