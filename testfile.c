@@ -2,9 +2,10 @@
 
 int testfun(int a, int b)
 {
-  int c;
-  c = a + b;
-  return c;
+  int x;
+  x = a + b;
+  x *= x;
+  return x;
 }
 
 int main()
