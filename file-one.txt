@@ -1,7 +1,0 @@
-Hello world.
-
-How are you? :-)
-
-Debugging time!
-
-Here's a new change!
